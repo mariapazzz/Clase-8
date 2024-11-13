@@ -1,0 +1,19 @@
+*{margin: 0; padding: 0;box-sizing: border-box;}
+.contenedor{
+    background-color: blueviolet;
+    height: 800px;
+}
+.contenedor div{
+    font-size: 50px;
+    color: aquamarine;
+    background-color: brown;
+    border: 5px dotted plum;
+    margin: 5px;
+    padding: 30px;
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+}

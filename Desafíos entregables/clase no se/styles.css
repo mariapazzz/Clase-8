@@ -1,0 +1,25 @@
+
+#Ga{ background-color: bisque;}
+#Description{ background-color: rgb(235, 156, 21);}
+#Bio{ background-color: rgb(236, 136, 14);}
+.cont header{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    list-style: none;
+}
+.cont header nav ul li{
+    margin: 20px;
+}
+/*el id va con hashtag, utilizarlo para clickear un boton y que te lleve a cierta parte de la pagina*/
+.p1{background-color: aqua;}
+.p2{background-color: brown;}
+.p3{background-color: aquamarine;}
+.p4{background-color: blueviolet;}
+.p5{background-color: blue;}

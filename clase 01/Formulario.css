@@ -1,0 +1,23 @@
+h2{
+    text-decoration: underline;
+    color: rgb(99, 17, 17);
+    text-align: center;
+}
+label{
+    color: blueviolet;
+}
+.Verde{
+    color: rgb(17, 13, 231);
+}
+.Bordo {
+    color: brown;
+}
+body{
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='72' viewBox='0 0 36 72'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%2378a33b' fill-opacity='0.59'%3E%3Cpath d='M2 6h12L8 18 2 6zm18 36h12l-6 12-6-12z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+section article h2{
+    color: brown;
+}
+.user{
+color: rgb(255, 0, 43);
+}
